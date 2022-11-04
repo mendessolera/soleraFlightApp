@@ -1,0 +1,11 @@
+.header {
+    align-items: center;
+    
+}
+.nav__link{
+    border: 100px;
+    padding: 70px;
+    display: inline;
+    align-items: center;
+
+}
