@@ -1,0 +1,2 @@
+INSERT INTO flightparameters (id, origin, destination, baggage , price, dateformat, airline, scales) VALUES (1, 'Porto', 'Sevilha', true, 120, '2020-11-22','Emirades', true);
+INSERT INTO flightparameters (id, origin, destination, baggage , price, dateformat, airline, scales) VALUES (2, 'Porto', 'Sevilha', true, 120, '2020-11-22','as', true)
